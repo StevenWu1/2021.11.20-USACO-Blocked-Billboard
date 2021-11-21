@@ -16,3 +16,6 @@ Please output the total combined area of both billboards that remains visible.
 # SAMPLE OUTPUT:
 17  
 Here, 5 units of area from the first billboard and 12 units of area from the second billboard remain visible.
+
+# How to solve the problem: 
+Format: ![https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/]
