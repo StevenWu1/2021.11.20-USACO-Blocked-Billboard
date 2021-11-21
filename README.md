@@ -9,9 +9,9 @@ Please output the total combined area of both billboards that remains visible.
 
 # SAMPLE INPUT:
 
-1 2 3 5
-6 0 10 4
-2 1 8 3
+  * 1 2 3 5
+  * 6 0 10 4
+  * 2 1 8 3
 
 # SAMPLE OUTPUT:
 17
