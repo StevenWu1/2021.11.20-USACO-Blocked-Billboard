@@ -14,5 +14,5 @@ Please output the total combined area of both billboards that remains visible.
   * 2 1 8 3
 
 # SAMPLE OUTPUT:
-17\
+17  
 Here, 5 units of area from the first billboard and 12 units of area from the second billboard remain visible.
