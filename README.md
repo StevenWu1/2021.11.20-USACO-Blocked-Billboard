@@ -18,4 +18,4 @@ Please output the total combined area of both billboards that remains visible.
 Here, 5 units of area from the first billboard and 12 units of area from the second billboard remain visible.
 
 # How to solve the problem: 
-<img src="images/Graph.png" width="100" height"100">
+<img src="imageofgraph.jng" width="100">
