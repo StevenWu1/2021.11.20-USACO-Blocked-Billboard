@@ -18,4 +18,4 @@ Please output the total combined area of both billboards that remains visible.
 Here, 5 units of area from the first billboard and 12 units of area from the second billboard remain visible.
 
 # How to solve the problem: 
-Format: ![https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg]
+![https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg]
